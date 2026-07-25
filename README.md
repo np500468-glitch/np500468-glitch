@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**np500468-glitch/np500468-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋, I'm Neha Paswan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BCA Student | Aspiring AI & Machine Learning Engineer
+
+💻 Passionate about building software and exploring Artificial Intelligence.
+
+### 🚀 Skills
+
+* C Programming
+* HTML5, CSS3
+* JavaScript
+* Data Structures & Algorithms (DSA)
+* Git & GitHub
+
+### 🌱 Currently Learning
+
+* Python
+* Machine Learning
+* Artificial Intelligence
+* Data Science
+
+### 🎯 Career Goal
+
+To become an AI Engineer by building real-world projects, contributing to open-source, and continuously improving my problem-solving skills.
+
+### 📌 Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Web Development
+* Problem Solving
+* Open Source
+
+⭐ *"Learning every day, building every week, and growing one project at a time."*
+
