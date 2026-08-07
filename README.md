@@ -3,6 +3,7 @@
 # Hi there 👋, I'm Neha Paswan
 
 🎓 BCA Student | Aspiring AI & Machine Learning Engineer
+Portfolio https://np500468-glitch.github.io/portfolio/
 
 💻 Passionate about building software and exploring Artificial Intelligence.
 
