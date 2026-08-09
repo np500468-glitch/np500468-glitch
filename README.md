@@ -5,7 +5,7 @@
 🎓 BCA Student | Aspiring AI & Machine Learning Engineer
 
 
-Portfolio https://np500468-glitch.github.io/portfolio/
+🖥️ See my portfolio at https://np500468-glitch.github.io/portfolio/
 
 💻 Passionate about building software and exploring Artificial Intelligence.
 
