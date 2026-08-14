@@ -5,7 +5,7 @@
 🎓 BCA Student | Aspiring AI & Machine Learning Engineer
 
 
-🖥️ See my portfolio at   ### [Neha](https://your-portfolio-link.com)
+🖥️ See my portfolio at    [Neha Paswan](https://np500468-glitch.github.io/portfolio/)
 
 💻 Passionate about building software and exploring Artificial Intelligence.
 
